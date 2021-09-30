@@ -24,7 +24,7 @@ public class Auditlog {
 	}
 
 	public void setId(Long id) {
-		this.id = id;
+		this.id =id;
 	}
 
 	public String getOperationType() {
